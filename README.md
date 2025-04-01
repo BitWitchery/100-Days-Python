@@ -1,6 +1,6 @@
 # 100-Days-Python
 
-BEGINNER PYTHON
+BEGINNER PYTHON <br>
 Variables in Python
 String Manipulation
 Input and Print Functions
